@@ -1,5 +1,4 @@
-
-  {
+ {
     category: 'street',
     bikes: [
       {
@@ -161,5 +160,5 @@
         image:
           'https://www.hlcorp.com.sg/motorcycles/images_information/pproducts_153.jpg',
       },
-    ],
+    ]
   }
